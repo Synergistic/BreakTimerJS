@@ -69,6 +69,11 @@ p {
     color: rgba(255,255,255,.7);
 }
 
+.timer-text{ 
+    font-size: x-large;
+    padding: 1em;
+    
+}
 
 section {
     padding: 100px 0;
