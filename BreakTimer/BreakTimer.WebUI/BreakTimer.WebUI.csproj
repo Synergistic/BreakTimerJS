@@ -156,6 +156,7 @@
     <Content Include="Scripts\jquery.fittext.js" />
     <Content Include="Scripts\jquery.js" />
     <Content Include="Scripts\wow.min.js" />
+    <Content Include="Sounds\pop.mp3" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

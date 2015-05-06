@@ -72,7 +72,17 @@ p {
 .timer-text{ 
     font-size: x-large;
     padding: 1em;
+    margin: 0 auto;
+    width: 220px;
     
+}
+
+.minutes {
+    text-align: center;
+}
+
+.seconds {
+    text-align: center;
 }
 
 section {
